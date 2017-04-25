@@ -11,7 +11,7 @@ import org.w3c.dom.Text;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-  
+
     ListView lv;
     ArrayList<String> al;
     ArrayAdapter<String> aa;
